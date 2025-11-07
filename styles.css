@@ -104,18 +104,28 @@ h6 {
 }
 
 .btn-cta {
-  background: var(--light-blue);
+  background: #2CD46B;
   color: var(--white);
   padding: .6rem 1.2rem;
   border-radius: 8px;
   text-decoration: none;
   font-weight: 600;
   transition: background 0.3s;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px; /* espaço entre o ícone e o texto */
+}
+.btn-cta i {
+  font-size: 1.2rem;
+  color: #fff !important; /* força o branco no ícone */
 }
 
+
 .btn-cta:hover {
-  background: var(--blue);
+  background: #19A7F5;
 }
+
+
 
 /* botão hamburguer só aparece no mobile */
 .menu-toggle {
