@@ -8,7 +8,7 @@ O site foi criado com foco em **design moderno**, **navegação fluida** e **exp
 
 ## 🌐 Demonstração
 
-🔗 **Ver site online:** (https://dj-ar-condicionado.vercel.app/) (#)
+🔗 **Ver site online:** (https://dj-ar-condicionado.vercel.app/)
 
 ---
 
